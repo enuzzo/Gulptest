@@ -1,0 +1,19 @@
+// Bootstrap Mods
+$body-bg:			#ff0 !default;
+$font-size-base:	20px !default;
+@import "bootstrap";
+
+// Gulptest Styles
+$color-title:		#FFF;
+$color-subtitle:	#23AE2F; 
+
+h1 {color: $color-title;}
+h2 {color: $color-subtitle;} 
+
+h1 {
+  transition: background-color 0.5s ease;
+  background-color: red;
+}
+h1:hover { 
+  background-color: green;
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Gulptest",
+  "version": "1.0.0",
+  "authors": [
+    "enuzzo"
+  ],
+  "description": "Il progettino dell'amicizia",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.4"
+  }
+}
